@@ -1,3 +1,9 @@
+body {
+	background-color: #000000;
+}
+
+/*HEXADECIMAL*/
+
 #first {
 	color:#9ACD32;	/*Yellowgreen*/
 }
@@ -10,6 +16,8 @@
 	color:#FF6347;
 }
 
+/*HEXADECIMAL POWER OF ID*/
+
 #color-one {
 	color:#9ACD32;
 }
@@ -20,4 +28,33 @@
 
 #color-three {
 	color:#FF6347;
+}
+
+/*RED BLUE GREE*/
+
+#rgb-one {
+	color: rgb(255,127,80);
+}
+
+#rgb-two {
+	color: rgb(255,222,173);
+}
+
+/*RED BLUE GREE ALPHA */
+
+
+#rgba-one {
+	color: rgba(255,127,80,0.20);
+}
+
+#rgba-two {
+	color: rgba(255,222,173,1.0);
+}
+
+#rgba-three {
+	color: rgba(147,112,219,.10);
+}
+
+h1 {
+	color: white;
 }
