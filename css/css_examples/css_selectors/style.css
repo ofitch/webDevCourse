@@ -1,0 +1,26 @@
+li	{
+	border:2px solid black;
+}
+
+
+/* ID TAG */
+#checkbox-one {
+	background: black;
+	color:red;
+}
+
+#checkbox-two {
+	background:grey;
+	color:blue;
+}
+
+#checkbox-three {
+	background: black;
+	color:green;
+}
+
+.checkbox {
+	background:black;
+	color: red;
+	text-decoration: line-through;
+}
