@@ -1,0 +1,28 @@
+/*least specific*/
+
+body {
+	color: red;
+}
+
+ul	{
+	color: blue;
+}
+
+li	{
+	color: orange;
+}
+
+/*More specific*/
+.highlight {
+	color: purple;
+}
+
+input[type="text"]
+{
+
+}
+
+/*MOST SPECIFIC*/
+#special {
+	color: green;
+}
