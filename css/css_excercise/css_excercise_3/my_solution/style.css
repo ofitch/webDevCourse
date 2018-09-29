@@ -1,0 +1,47 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+#wrapper {
+	border: 20px solid #bdc3c7;
+	width: 60%;
+	height: 60%;
+	margin: 0 auto;
+	padding-left: 2%;
+	text-align: left;
+}
+
+.content {
+	border-bottom: 2px solid #bdc3c7;
+	width: 90%;
+	height: 90%;
+}
+
+.content:nth-child(2) {
+	border: none;
+}
+
+.date {
+	color: #3498db ;
+	font-size: 100%;
+	font-weight: 800;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+}
+
+h2 {
+	font-weight: bold;
+	color: #2c3e50;
+	font-size: 40px;
+	text-transform: capitalize;
+}
+
+.border, .info{
+	font-size: 1.2em;
+}
+
+.border {
+	border-left: 4px solid #bdc3c7;
+	padding-left: 1.5%;
+}
+
