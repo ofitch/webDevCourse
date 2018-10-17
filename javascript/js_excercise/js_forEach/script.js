@@ -39,3 +39,8 @@ while(count < numbers.length){
 		console.log("using while loops: " + numbers[count]);
 	count++;
 }
+
+//forEach takes three arguements
+numbers.forEach(function(el, i, arr){
+	console.log("element = " + el + " ","array[" + i + "]", arr);
+});
